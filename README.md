@@ -5,8 +5,8 @@ geog 510 demo
 
 This is a demo repository for geog 510
 
-## usage
+# usage
 This is a practice test for the class
 
-## contributors
+# contributors
 The whole class 

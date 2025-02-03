@@ -11,4 +11,6 @@ This is a practice test for the class
 ### contributors
 The whole class 
 
-testing new text *smiley_face*
+testing new text 
+
+![mr. sloth](https://i.imgur.com/ZBwwcjo.gif)

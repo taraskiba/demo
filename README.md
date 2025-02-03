@@ -14,3 +14,7 @@ The whole class
 testing new text 
 
 ![mr. sloth](https://i.imgur.com/ZBwwcjo.gif)
+
+```python
+print("Hello, world")
+```
